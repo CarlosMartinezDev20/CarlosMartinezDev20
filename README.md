@@ -1,13 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Carlos</h1>
 
-<pre>
-💻 I'm developing my skills as a .NET and Full Stack programmer  
-📚 I have a degree in Software Development Engineering  
-📝 I have a keen interest in developing web and desktop applications  
-🌱 I focus on understanding customer needs and simplifying their lives  
-🌟 Primary language: C#  
-🚩 Interested in application development, hacking, and cybersecurity  
-</pre>
+<p align="center">.NET Developer | Full Stack Enthusiast | Cybersecurity Explorer</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 I'm currently growing my skills as a .NET and Full Stack developer  
+- 🎓 I hold a degree in Software Development Engineering  
+- 🌐 I enjoy building both web and desktop applications  
+- 🧠 I love solving problems and simplifying users’ lives  
+- 💬 Main programming language: **C#**  
+- 🛡️ Passionate about application development, hacking & cybersecurity  
 
 <img align="right" height="150" src="https://ruya.studio/assets/images/dev.webp" />
 
@@ -35,28 +39,24 @@
 
 ---
 
-## 📫 Let's get in touch!
-
-## 📫 Let's get in touch!
+## 📫 Let's Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlos-martinez-994224354" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-martinez-994224354" target="_blank" title="Carlos on LinkedIn">
     <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/carma_rtinez3933?igsh=MmQzMXhyc3F0NnNi" target="_blank">
+  <a href="https://www.instagram.com/carma_rtinez3933?igsh=MmQzMXhyc3F0NnNi" target="_blank" title="Carlos on Instagram">
     <img alt="Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
   </a>&nbsp;&nbsp;
 
-  <a href="mailto:carlitosmar960@gmail.com">
-  <img alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-
+  <a href="mailto:carlitosmar960@gmail.com" title="Send me an email">
+    <img alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+  </a>
 </p>
-
 
 ---
 
 <p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake animation" />
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="GitHub activity animation" />
 </p>
