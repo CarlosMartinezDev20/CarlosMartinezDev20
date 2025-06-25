@@ -15,7 +15,7 @@
 - 🧰 I use tools like **GitHub**, **Kali Linux**, and the **.NET platform**  
 - 🛠️ Familiar with IDEs like **Visual Studio Community**, **Visual Studio Code**, and **IntelliJ IDEA**
 
-<img align="right" height="150" src="https://ruya.studio/assets/images/dev.webp" />
+
 
 ---
 
