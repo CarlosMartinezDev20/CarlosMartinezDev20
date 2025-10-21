@@ -70,9 +70,6 @@ I love building systems that improve user experiences and exploring the world of
 <a href="https://www.linkedin.com/in/carlos-martinez-994224354">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.instagram.com/carma_rtinez3933?igsh=MmQzMXhyc3F0NnNi">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
 <a href="mailto:carlitosmar960@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
