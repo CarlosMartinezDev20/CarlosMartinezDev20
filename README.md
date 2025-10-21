@@ -4,27 +4,17 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
 
-I am a Software Development Engineer and a passionate .NET Developer focused on creating efficient, scalable, and secure applications.  
-I love building systems that improve user experiences and exploring the world of cybersecurity and ethical hacking.
+I’m a **Software Development Engineer** and passionate **.NET & Full Stack Developer** who enjoys turning ideas into impactful digital solutions.  
+My focus is on crafting **efficient, scalable, and secure applications** while keeping a strong emphasis on clean architecture and great user experience.
 
-- 💻 I’m currently deepening my skills in **ASP.NET Core, MVC, and Entity Framework**
-- 🌐 I develop **web and desktop applications** with a focus on usability and performance  
-- ⚙️ Exploring the intersection of **software engineering and cybersecurity**
-- 💬 Main language: **C#**
-- 🔐 Tools I often use: **GitHub**, **Kali Linux**, **SQL Server**, and **Visual Studio**
-- 🧠 Always learning new technologies to stay one step ahead  
-- 🎯 I aim to create **clean, maintainable, and robust code**
+What drives me is the challenge of solving real-world problems through technology — from building APIs and responsive frontends to ensuring systems are safe and reliable.
 
----
-
-## 🧠 Currently Learning
-- ASP.NET Core APIs & Authentication (JWT)
-- Secure Coding & Vulnerability Testing
-- Advanced SQL Optimization
-- **React (hooks & context)**
-- **Tailwind CSS for utility-first styling**
-- **Spring Boot** for microservices & backend Java APIs
-
+- 💻 Currently mastering **ASP.NET Core**, **Entity Framework**, and **Spring Boot**
+- ⚛️ Expanding into modern frontend frameworks like **React** and **Tailwind CSS**
+- 🔒 Passionate about **cybersecurity**, **ethical hacking**, and **secure coding**
+- 🧩 Experienced in both **web** and **desktop** app development
+- 🧠 Constantly learning and exploring new technologies to grow as a developer
+- 🎯 My goal: build software that’s not only functional — but meaningful, elegant, and future-ready
 ---
 
 ## 💻 Tech Stack  
