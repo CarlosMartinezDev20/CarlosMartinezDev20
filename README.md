@@ -35,7 +35,7 @@ What drives me is the challenge of solving real-world problems through technolog
 <h4>🗄 Databases</h4>
 <span>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/MySql-07405E?style=for-the-badge&logo=Mysql&logoColor=white">
 </span>
 
 <h4>⚙️ Tools & Operating Systems</h4>
