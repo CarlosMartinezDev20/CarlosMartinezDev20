@@ -10,9 +10,9 @@ My focus is on crafting **efficient, scalable, and secure applications** while k
 What drives me is the challenge of solving real-world problems through technology — from building APIs and responsive frontends to ensuring systems are safe and reliable.
 
 - 💻 Currently mastering **ASP.NET Core**, **Entity Framework**, and **Spring Boot**
-- ⚛️ Expanding into modern frontend frameworks like **React** and **Tailwind CSS**
+- ⚛️ Expanding into modern frontend frameworks like **React**, **Flutter**, and **Tailwind CSS**
 - 🔒 Passionate about **cybersecurity**, **ethical hacking**, and **secure coding**
-- 🧩 Experienced in both **web** and **desktop** app development
+- 🧩 Experienced in both **web**, **mobile**, and **desktop** app development
 - 🧠 Constantly learning and exploring new technologies to grow as a developer
 - 🎯 My goal: build software that’s not only functional — but meaningful, elegant, and future-ready
 ---
@@ -24,11 +24,16 @@ What drives me is the challenge of solving real-world problems through technolog
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </span>
 
@@ -70,4 +75,3 @@ What drives me is the challenge of solving real-world problems through technolog
 
 [![](https://github-readme-stats.vercel.app/api?username=CarlosMartinezDev20&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/carlitosmar960)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosMartinezDev20&theme=material-palenight)](https://github.com/carlitosmar960)
-
